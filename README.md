@@ -1,0 +1,2 @@
+# Healthcare-Data-Governance-Anonymization-Project
+This project showcases a practical application of Data Governance and Privacy  Compliance using a synthetic California hospital dataset. We focused on  detecting Personally Identifiable Information (PII), Protected Health Information  (PHI) and sensitive fields in patient records, followed by anonymizing them using standard techniques HIPAA &amp; CCPA 
